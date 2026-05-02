@@ -31,26 +31,6 @@ cd wanderlust-travel
 open index.html
 ```
 
-## Deployment
-
-### Option 1: Netlify (Recommended)
-
-1. Go to [Netlify](https://app.netlify.com/)
-2. Drag and drop the project folder
-3. Site will be live instantly
-
-### Option 2: GitHub Pages
-
-1. Push to GitHub
-2. Enable GitHub Pages in repository settings
-3. Select main branch as source
-
-### Option 3: Vercel
-
-1. Go to [Vercel](https://vercel.com/)
-2. Import GitHub repository
-3. Deploy with default settings
-
 ## Project Structure
 
 ```
